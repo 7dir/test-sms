@@ -24,6 +24,6 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <engine name="android" spec="~7.1.4" />
-    <plugin name="com.cordova.plugins.sms" spec="0.1.1" source="pgb" />
-
+    <plugin name="cordova-sms-plugin" spec="https://github.com/cordova-sms/cordova-sms-plugin.git" />
+    
 </widget>
