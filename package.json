@@ -16,8 +16,8 @@
     },
     "cordova": {
         "plugins": {
-            "cordova-sms-plugin": {},
-            "cordova-plugin-whitelist": {}
+            "cordova-plugin-whitelist": {},
+            "cordova-sms-plugin": {}
         },
         "platforms": [
             "android"

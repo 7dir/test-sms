@@ -7,10 +7,10 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-sms-plugin": {
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "org.apache.cordova.myApp"
     },
-    "cordova-plugin-whitelist": {
+    "cordova-sms-plugin": {
       "PACKAGE_NAME": "org.apache.cordova.myApp"
     }
   },
